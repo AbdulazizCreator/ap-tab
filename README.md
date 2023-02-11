@@ -1,19 +1,19 @@
-# ap-tab
+# Tanishtiruv
 
-A simple JavaScript library for creating tabbed interfaces.
+VanillaJs da qilingan tab uchun maxsus kutubxonalar yo'q ekan shunga o'zim yaratib qo'ydim.
 
-## Getting Started
+## Boshlash
 
-Include the following script tag in your HTML file to use the `ap-tab` library:
+Ushbu `ap-tab` kutubxonasidan foydalanish uchun quyidagi js faylni o'zingizga yuklab oling:
 
 ``` <script src="https://cdn.jsdelivr.net/gh/abdulazizcreator/ap-tab/main.js"></script> ```
 
 
-## Usage
+## Foydalanish
 
-To use the `ap-tab` library, follow these steps:
+`ap-tab` kutubxonasidan foydalanish uchun quyidagi qadamlarni bajaring.
 
-1. Create the HTML structure for the tabbed interface. The following is an example HTML structure:
+1. Quyidagi HTML kodlarni o'zingizni html faylingizga qo'ying.
 
 ```
 <div class="ap-tab">
@@ -39,17 +39,19 @@ To use the `ap-tab` library, follow these steps:
 </div>
 ```
 
-2. You should use `active-tab` class to give style when styling active elements.
+2. Agar aktiv holatdagi elementlarga style bermoqchi bo'lsangiz `active-tab` tabidan foydalaning.
 
-## Contributing
-If you would like to contribute to the ap-tab project, please contact Abdulaziz Programmer.
+## Hissa qo'shish
 
-## License
-The ap-tab project is open source and available under the MIT license.
+Agar qaydaydir takliflar bo'lsa, @abdulazizprogrammer ga bog'laning.
 
-## Acknowledgments
-Thank you to Abdulaziz Programmer for creating the ap-tab library.
+## Linzensiya
 
+`ap-tab` kutubxonasi ochiq platforma.
+
+## Developer
+
+Abdulaziz Programmer
 
 
 
