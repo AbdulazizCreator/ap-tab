@@ -6,7 +6,7 @@ A simple JavaScript library for creating tabbed interfaces.
 
 Include the following script tag in your HTML file to use the `ap-tab` library:
 
-<script src="https://cdn.jsdelivr.net/gh/abdulazizcreator/ap-tab/main.js"></script>
+``` <script src="https://cdn.jsdelivr.net/gh/abdulazizcreator/ap-tab/main.js"></script> ```
 
 
 ## Usage
@@ -15,6 +15,7 @@ To use the `ap-tab` library, follow these steps:
 
 1. Create the HTML structure for the tabbed interface. The following is an example HTML structure:
 
+```
 <div class="ap-tab">
   <ul class="ap-tab-list">
     <li class="ap-tab-item"><a class="ap-tab-link" href="#">Tab 1</a></li>
@@ -36,6 +37,9 @@ To use the `ap-tab` library, follow these steps:
     ipsam at vel veritatis.
   </div>
 </div>
+```
+
+2. You should use `active-tab` class to give style when styling active elements.
 
 ## Contributing
 If you would like to contribute to the ap-tab project, please contact Abdulaziz Programmer.
