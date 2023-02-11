@@ -4,7 +4,7 @@ VanillaJs da qilingan tab uchun maxsus kutubxonalar yo'q ekan shunga o'zim yarat
 
 ## Boshlash
 
-Ushbu `ap-tab` kutubxonasidan foydalanish uchun quyidagi js faylni o'zingizga yuklab oling:
+Ushbu `ap-tab` kutubxonasidan foydalanish uchun quyidagi js faylni HTML faylingizga ulang.
 
 ``` <script src="https://cdn.jsdelivr.net/gh/abdulazizcreator/ap-tab/main.js"></script> ```
 
