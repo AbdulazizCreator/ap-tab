@@ -21,7 +21,8 @@ function getActiveTab(i) {
 getActiveTab(0);
 
 for (let i = 0; i < tabs.length; i++) {
-  tabs[i].addEventListener("click", function () {
+  tabs[i].addEventListener("click", function (e) {
+    e.preventDefault();
     getActiveTab(i);
   });
 }
