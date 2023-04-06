@@ -39,7 +39,7 @@ Ushbu `ap-tab` kutubxonasidan foydalanish uchun quyidagi js faylni HTML faylingi
 </div>
 ```
 
-2. Agar aktiv holatdagi elementlarga style bermoqchi bo'lsangiz `active-tab` tabidan foydalaning.
+2. Agar aktiv holatdagi elementlarga style bermoqchi bo'lsangiz `active-tab` classidan foydalaning.
 
 ## Hissa qo'shish
 
